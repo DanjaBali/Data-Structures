@@ -1,4 +1,5 @@
 Data Structures - Project
+
 • In this project I was asked to implement a binary search tree to allow duplicates.
 – Hint: Each node store a data structure of items that are
 considered duplicates (using the first item in this structure) to
