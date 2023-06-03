@@ -1,9 +1,11 @@
 Data Structures - Project
 
 • In this project I was asked to implement a binary search tree to allow duplicates.
+
 – Hint: Each node store a data structure of items that are
 considered duplicates (using the first item in this structure) to
 control branching.
+
 • In addition to the existing operators of the tree, I was asked to implement also the
 following:
 – Return number of duplicates of an element
